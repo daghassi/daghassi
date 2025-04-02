@@ -2,7 +2,7 @@
 
 ## About Me
 - 🔭 I’m currently working on my Bachelors of Computer Science at Colorado School of Mines
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Go
 - 💬 Ask me about Hackathons
 - 📫 How to reach me: danial_aghassi@mines.edu
 
